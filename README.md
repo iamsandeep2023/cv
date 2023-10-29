@@ -1,2 +1,2 @@
 # cv
-Autho - Sandeep Patel
+Author - Sandeep Patel
